@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Sebastian Alamo / README.md
+
 <!--
 **Sebaa-al/Sebaa-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
