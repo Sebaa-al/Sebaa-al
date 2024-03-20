@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-
+- 🔭 Take a look at my second GitHub account [AlamoSvc]([https://github.com/alamosvc])
 - 🔭 I’m currently working on the [something](https://github.com/Sebaa-al/repl)
 - 🌱 I’m currently learning React
 - 💬 Ask me about Js
